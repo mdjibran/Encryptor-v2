@@ -1,0 +1,44 @@
+E:\Applications\Encryptor\Encryptor\bin\Debug\Encryptor.exe
+E:\Applications\Encryptor\Encryptor\bin\Debug\Encryptor.pdb
+E:\Applications\Encryptor\Encryptor\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Applications\Encryptor\Encryptor\obj\x86\Debug\Encryptor.Form1.resources
+E:\Applications\Encryptor\Encryptor\obj\x86\Debug\Encryptor.Properties.Resources.resources
+E:\Applications\Encryptor\Encryptor\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Applications\Encryptor\Encryptor\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Applications\Encryptor\Encryptor\obj\x86\Debug\Encryptor.exe
+E:\Applications\Encryptor\Encryptor\obj\x86\Debug\Encryptor.pdb
+E:\Applications\Encryptor\Encryptor\Encryptor\obj\x86\Debug\Encryptor.exe
+E:\Applications\Encryptor\Encryptor\Encryptor\obj\x86\Debug\Encryptor.pdb
+E:\Applications\Encryptor\Encryptor\Encryptor\bin\Debug\Encryptor.exe
+E:\Applications\Encryptor\Encryptor\Encryptor\bin\Debug\Encryptor.pdb
+E:\Applications\Encryptor\Encryptor\Encryptor\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Applications\Encryptor\Encryptor\Encryptor\obj\x86\Debug\Encryptor.Form1.resources
+E:\Applications\Encryptor\Encryptor\Encryptor\obj\x86\Debug\Encryptor.Properties.Resources.resources
+E:\Applications\Encryptor\Encryptor\Encryptor\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Applications\Encryptor\Encryptor\Encryptor\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Applications\Back Up\Encryptor\Encryptor\Encryptor\obj\x86\Debug\Encryptor.exe
+E:\Applications\Back Up\Encryptor\Encryptor\Encryptor\obj\x86\Debug\Encryptor.pdb
+E:\Applications\Back Up\Encryptor\Encryptor\Encryptor\bin\Debug\Encryptor.exe
+E:\Applications\Back Up\Encryptor\Encryptor\Encryptor\bin\Debug\Encryptor.pdb
+E:\Applications\Back Up\Encryptor\Encryptor\Encryptor\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Applications\Back Up\Encryptor\Encryptor\Encryptor\obj\x86\Debug\Encryptor.Form1.resources
+E:\Applications\Back Up\Encryptor\Encryptor\Encryptor\obj\x86\Debug\Encryptor.Properties.Resources.resources
+E:\Applications\Back Up\Encryptor\Encryptor\Encryptor\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Applications\Back Up\Encryptor\Encryptor\Encryptor\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\JIBRAN\Applications\Back Up\Encryptor\Encryptor\Encryptor\Encryptor\obj\x86\Debug\Encryptor.exe
+D:\JIBRAN\Applications\Back Up\Encryptor\Encryptor\Encryptor\Encryptor\obj\x86\Debug\Encryptor.pdb
+D:\JIBRAN\Applications\Back Up\Encryptor\Encryptor\Encryptor\Encryptor\bin\Debug\Encryptor.exe
+D:\JIBRAN\Applications\Back Up\Encryptor\Encryptor\Encryptor\Encryptor\bin\Debug\Encryptor.pdb
+D:\JIBRAN\Applications\Back Up\Encryptor\Encryptor\Encryptor\Encryptor\obj\x86\Debug\Encryptor.Form1.resources
+D:\JIBRAN\Applications\Back Up\Encryptor\Encryptor\Encryptor\Encryptor\obj\x86\Debug\Encryptor.Properties.Resources.resources
+D:\JIBRAN\Applications\Back Up\Encryptor\Encryptor\Encryptor\Encryptor\obj\x86\Debug\Encryptor.csproj.GenerateResource.Cache
+D:\JIBRAN\Applications\Back Up\Encryptor\Encryptor\Encryptor\Encryptor\obj\x86\Debug\Encryptor.csprojResolveAssemblyReference.cache
+D:\JIBRAN\Applications\Back Up\Encryptor\Encryptor\REDUCED Encryptor\Encryptor\obj\x86\Debug\Encryptor.exe
+D:\JIBRAN\Applications\Back Up\Encryptor\Encryptor\REDUCED Encryptor\Encryptor\obj\x86\Debug\Encryptor.pdb
+D:\JIBRAN\Applications\Back Up\Encryptor\Encryptor\REDUCED Encryptor\Encryptor\obj\x86\Debug\Encryptor.csprojResolveAssemblyReference.cache
+D:\JIBRAN\Applications\Back Up\Encryptor\Encryptor\REDUCED Encryptor\Encryptor\obj\x86\Debug\Encryptor.Form1.resources
+D:\JIBRAN\Applications\Back Up\Encryptor\Encryptor\REDUCED Encryptor\Encryptor\obj\x86\Debug\Encryptor.Form2.resources
+D:\JIBRAN\Applications\Back Up\Encryptor\Encryptor\REDUCED Encryptor\Encryptor\obj\x86\Debug\Encryptor.Properties.Resources.resources
+D:\JIBRAN\Applications\Back Up\Encryptor\Encryptor\REDUCED Encryptor\Encryptor\obj\x86\Debug\Encryptor.csproj.GenerateResource.Cache
+D:\JIBRAN\Applications\Back Up\Encryptor\Encryptor\REDUCED Encryptor\Encryptor\bin\Debug\Encryptor.exe
+D:\JIBRAN\Applications\Back Up\Encryptor\Encryptor\REDUCED Encryptor\Encryptor\bin\Debug\Encryptor.pdb
